@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/devop76k/Parts%20Unlimited/_apis/build/status/kjerstimk.ContosoAir?branchName=master)](https://dev.azure.com/devop76k/Parts%20Unlimited/_build/latest?definitionId=4&branchName=master)
 
 # Microsoft.Github CI Demo
 
